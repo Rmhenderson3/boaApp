@@ -1,0 +1,16 @@
+{
+  "name": "boalogin",
+  "version": "1.0.0",
+  "description": "Login for the BOA app. Basics.",
+  "main": "boaLogin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rmhenderson3/boaApp.git"
+}
+  "author": "Team CAP",
+  "license": "ISC"
+  
+}
